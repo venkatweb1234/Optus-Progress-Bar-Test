@@ -1,0 +1,36 @@
+.first
+{
+    height: 30px;
+    width:100%;
+    background: #ddd;
+}
+.second{
+    height: 30px;
+    background: dodgerblue;
+}
+.MainDiv
+{
+    width: 22%;
+    margin-top: 63px;
+    margin-left: 327px;
+}
+.dropdown
+{
+margin-top: 61px;
+}
+.btnsml
+{
+    margin-left: 10px;
+}
+.btnmd
+{
+    margin-left: 10px;
+}
+.btnsmlmin
+{
+    margin-left: 10px;
+}
+.btnmedmin
+{
+    margin-left: 10px;
+}
