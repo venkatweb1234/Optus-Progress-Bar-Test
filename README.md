@@ -1,5 +1,15 @@
 Venkateswarlu.Sattenapalli
 
+git clone https://github.com/venkatweb1234/Optus-Progress-Bar-Test.git
+
+yarn install 
+
+npm install
+
+Or
+
+npm start
+
 yarn start
 
 
